@@ -1,0 +1,7 @@
+D:\Projects\Git\WindowsApplicationProgramming\Labs\2_POO\2_POO\bin\Debug\2_POO.exe.config
+D:\Projects\Git\WindowsApplicationProgramming\Labs\2_POO\2_POO\bin\Debug\2_POO.exe
+D:\Projects\Git\WindowsApplicationProgramming\Labs\2_POO\2_POO\bin\Debug\2_POO.pdb
+D:\Projects\Git\WindowsApplicationProgramming\Labs\2_POO\2_POO\obj\Debug\2_POO.csprojAssemblyReference.cache
+D:\Projects\Git\WindowsApplicationProgramming\Labs\2_POO\2_POO\obj\Debug\2_POO.csproj.CoreCompileInputs.cache
+D:\Projects\Git\WindowsApplicationProgramming\Labs\2_POO\2_POO\obj\Debug\2_POO.exe
+D:\Projects\Git\WindowsApplicationProgramming\Labs\2_POO\2_POO\obj\Debug\2_POO.pdb
