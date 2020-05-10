@@ -1,0 +1,11 @@
+C:\Users\mariusfacepoze\source\repos\PAW_Recap_TEST\bin\Debug\PAW_Recap_TEST.exe.config
+C:\Users\mariusfacepoze\source\repos\PAW_Recap_TEST\bin\Debug\PAW_Recap_TEST.exe
+C:\Users\mariusfacepoze\source\repos\PAW_Recap_TEST\bin\Debug\PAW_Recap_TEST.pdb
+C:\Users\mariusfacepoze\source\repos\PAW_Recap_TEST\obj\Debug\PAW_Recap_TEST.Properties.Resources.resources
+C:\Users\mariusfacepoze\source\repos\PAW_Recap_TEST\obj\Debug\PAW_Recap_TEST.csproj.GenerateResource.cache
+C:\Users\mariusfacepoze\source\repos\PAW_Recap_TEST\obj\Debug\PAW_Recap_TEST.csproj.CoreCompileInputs.cache
+C:\Users\mariusfacepoze\source\repos\PAW_Recap_TEST\obj\Debug\PAW_Recap_TEST.exe
+C:\Users\mariusfacepoze\source\repos\PAW_Recap_TEST\obj\Debug\PAW_Recap_TEST.pdb
+C:\Users\mariusfacepoze\source\repos\PAW_Recap_TEST\obj\Debug\PAW_Recap_TEST.csprojAssemblyReference.cache
+C:\Users\mariusfacepoze\source\repos\PAW_Recap_TEST\obj\Debug\PAW_Recap_TEST.Form1.resources
+C:\Users\mariusfacepoze\source\repos\PAW_Recap_TEST\obj\Debug\PAW_Recap_TEST.Form2.resources
