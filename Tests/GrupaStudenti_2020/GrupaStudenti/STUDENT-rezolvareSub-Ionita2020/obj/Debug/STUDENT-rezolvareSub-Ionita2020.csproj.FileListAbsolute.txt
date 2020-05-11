@@ -1,0 +1,9 @@
+D:\RESURSE2020\PAW\Subiecte Test\STUDENT-rezolvareSub-Ionita2020\STUDENT-rezolvareSub-Ionita2020\bin\Debug\STUDENT-rezolvareSub-Ionita2020.exe.config
+D:\RESURSE2020\PAW\Subiecte Test\STUDENT-rezolvareSub-Ionita2020\STUDENT-rezolvareSub-Ionita2020\bin\Debug\STUDENT-rezolvareSub-Ionita2020.exe
+D:\RESURSE2020\PAW\Subiecte Test\STUDENT-rezolvareSub-Ionita2020\STUDENT-rezolvareSub-Ionita2020\bin\Debug\STUDENT-rezolvareSub-Ionita2020.pdb
+D:\RESURSE2020\PAW\Subiecte Test\STUDENT-rezolvareSub-Ionita2020\STUDENT-rezolvareSub-Ionita2020\obj\Debug\STUDENT-rezolvareSub-Ionita2020.csprojAssemblyReference.cache
+D:\RESURSE2020\PAW\Subiecte Test\STUDENT-rezolvareSub-Ionita2020\STUDENT-rezolvareSub-Ionita2020\obj\Debug\STUDENT-rezolvareSub-Ionita2020.csproj.CoreCompileInputs.cache
+D:\RESURSE2020\PAW\Subiecte Test\STUDENT-rezolvareSub-Ionita2020\STUDENT-rezolvareSub-Ionita2020\obj\Debug\STUDENT-rezolvareSub-Ionita2020.exe
+D:\RESURSE2020\PAW\Subiecte Test\STUDENT-rezolvareSub-Ionita2020\STUDENT-rezolvareSub-Ionita2020\obj\Debug\STUDENT-rezolvareSub-Ionita2020.pdb
+D:\RESURSE2020\PAW\Subiecte Test\STUDENT-rezolvareSub-Ionita2020\STUDENT-rezolvareSub-Ionita2020\obj\Debug\STUDENT_rezolvareSub_Ionita2020.Form1.resources
+D:\RESURSE2020\PAW\Subiecte Test\STUDENT-rezolvareSub-Ionita2020\STUDENT-rezolvareSub-Ionita2020\obj\Debug\STUDENT-rezolvareSub-Ionita2020.csproj.GenerateResource.cache
